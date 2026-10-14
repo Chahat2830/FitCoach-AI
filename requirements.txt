@@ -6,3 +6,4 @@ mediapipe==0.10.21
 opencv-contrib-python==4.10.0.84
 pydantic
 Pillow
+groq
