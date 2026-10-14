@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+<title id="title">FitCoach dumbbell logo</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3c6c5"/><stop offset="1" stop-color="#dbe8e9"/></linearGradient></defs>
+<rect x="4" y="4" width="120" height="120" rx="32" fill="url(#g)"/>
+<g fill="none" stroke="#233746" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M34 46v36M24 54v20M44 54v20M94 46v36M84 54v20M104 54v20M44 64h40"/>
+</g>
+<circle cx="64" cy="64" r="5" fill="#cb8a79"/>
+</svg>
